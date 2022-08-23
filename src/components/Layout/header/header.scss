@@ -1,0 +1,14 @@
+.header-mango {
+    .navbar {
+        background-color: #fff;
+        .nav-link{
+            color: #000;
+            &:hover{
+                color: #999;
+            }
+        }
+    }
+    .logo {
+        max-width: 150px;
+    }
+}
